@@ -1,4 +1,3 @@
-# school_management_system_mysql_project
 # School Management System
 
 ## Project Overview
